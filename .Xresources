@@ -1,0 +1,50 @@
+URxvt.scrollBar: false
+URxvt.loginShell: true
+
+## Fonts
+
+
+
+## Terminal Colors
+URxvt.background: Black
+URxvt.foreground: White
+URxvt.underlineColor: yellow
+URxvt/colorUL: green
+
+## Text Colors
+! special
+*.foreground:   #d4d4d4
+*.background:   #303336
+*.cursorColor:  #d4d4d4
+
+! black
+*.color0:       #f2e3e3
+*.color8:       #69a3c5
+
+! red
+*.color1:       #1f91dc
+*.color9:       #00ef5d
+
+! green
+*.color2:       #9b9b9b
+*.color10:      #1f91dc
+
+! yellow
+*.color3:       #00ef5d
+*.color11:      #ffffff
+
+! blue
+*.color4:       #9b9b9b
+*.color12:      #809eb2
+
+! magenta
+*.color5:       #ab6ebf
+*.color13:      #7a4f87
+
+! cyan
+*.color6:       #1dcdb6
+*.color14:      #2d9688
+
+! white
+*.color7:       #1f91dc
+*.color15:      #00ef5d
